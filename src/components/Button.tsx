@@ -1,6 +1,5 @@
 import clsx from "clsx";
 import css from "./Button.module.css";
-import { useState } from "react";
 
 interface ButtonProps {
   variant?: "primary" | "secondary";

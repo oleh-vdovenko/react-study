@@ -1,7 +1,5 @@
-import { useState } from "react";
-
 interface ClickCounterProps {
-  vaue: number;
+  value: number;
   onUpdate: () => void;
 }
 
