@@ -1,10 +1,4 @@
-import Product from "./Product";
-import Mailbox from "./Mailbox";
-import Alert from "./Alert";
-import Button from "./Button";
-import UserMenu from "./UserMenu";
 import { useState } from "react";
-import ClickCounter from "./ClickCounter";
 
 interface Values {
   x: number;
